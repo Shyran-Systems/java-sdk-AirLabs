@@ -1,2 +1,2 @@
 # iatacodes-client
-Java client for http://iatacodes.org/ API
+Java client for https://airlabs.co API
